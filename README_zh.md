@@ -1,6 +1,6 @@
 # ExamVocabulary
 
-> 我搜集了这些词汇表List，旨在帮助那些有移民梦想或海外留学计划的人。
+> 我搜集了这些词汇表List，旨在帮助那些有移民梦想或海外留学计划的人更快地背单词。
 
 
 ### Condensed word lists
