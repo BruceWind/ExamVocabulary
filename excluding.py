@@ -3,13 +3,13 @@ word_list1 = set()
 word_list2 = set()
 
 # reading the first file that has less words.
-with open('CET.txt', 'r') as f1:
+with open('CET4.txt', 'r') as f1:
   for line in f1:
         word = line.split()[0].strip()
         word_list1.add(word)
 
 # reading the 2nd file that has more words than the first.
-with open('IELTS_8000.txt', 'r') as f2:
+with open('IELTS_excluded_TOEFL.txt', 'r') as f2:
     for line in f2:
         word = line.split()[0].strip()
         word_list2.add(word)
