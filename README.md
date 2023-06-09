@@ -5,7 +5,7 @@
 
 
 
-### Condensed word lists
+## Condensed word lists
 
 [IELTS_excluded_TOEFL.txt](IELTS_excluded_TOEFL_CET4.txt) : IELTS vocabulary without TOEFL words, suitable for those who already know TOEFL words.
 
@@ -15,7 +15,7 @@
 
 [GRE_8000_excluded_IELTS.txt](GRE_8000_excluded_IELTS.txt) iGRE vocabulary without IELTS words, suitable for those who already know IELTS words.
 
-### Original lists
+## Original lists
 
 [IELTS_4000.txt](IELTS_4000.txt) is a list of core IELTS vocabulary words, which does not include many basic high school vocabulary words.
 
