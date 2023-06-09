@@ -1,22 +1,27 @@
 # ExamVocabulary
 
-### condensed word list
+[中文](README_zh.md)
+> I have gathered these lists with the aim of assisting Chinese citizens who have aspirations of immigrating or studying abroad.
 
-[IELTS_excluded_TOEFL.txt](IELTS_excluded_TOEFL_CET4.txt) 是删除了托福词汇后的雅思词汇表。 该表适合背过托福词汇的人来背。
 
-[IELTS_excluded_TOEFL_CET4.txt](IELTS_excluded_TOEFL_CET4.txt) 是删除了托福和四级词汇后的雅思词汇表。该表适合背过托福和四级词汇的人来背。
 
-[TOEFL_excluded_IELTS.txt](TOEFL_excluded_IELTS.txt) 删除了雅思词汇，适合计划去考托福但又学过雅思词汇的同学。
+### Condensed word lists
 
-[GRE_8000_excluded_IELTS.txt](GRE_8000_excluded_IELTS.txt) 是删除了雅思词汇后的GRE词汇表。该表适合背过雅思词汇的人来背。
+[IELTS_excluded_TOEFL.txt](IELTS_excluded_TOEFL_CET4.txt) : IELTS vocabulary without TOEFL words, suitable for those who already know TOEFL words.
 
-### original lists
+[IELTS_excluded_TOEFL_CET4.txt](IELTS_excluded_TOEFL_CET4.txt)  IELTS vocabulary without TOEFL and CET-4 words, suitable for those who already know both TOEFL and CET-4 words.
 
-[IELTS_8000.txt](IELTS_4000.txt) 为核心词汇，并不包含太多基础的初高中词汇。
+[TOEFL_excluded_IELTS.txt](TOEFL_excluded_IELTS.txt) TOEFL vocabulary without IELTS words, suitable for those who plan to take TOEFL but already know IELTS words.
 
-[TOEFL.txt](TOEFL.txt) 是托福词汇，但是不包含特别基础的词汇。
+[GRE_8000_excluded_IELTS.txt](GRE_8000_excluded_IELTS.txt) iGRE vocabulary without IELTS words, suitable for those who already know IELTS words.
 
-[GRE_8000_Words.txt](GRE_8000_Words.txt) 同上。
+### Original lists
+
+[IELTS_4000.txt](IELTS_4000.txt) is a list of core IELTS vocabulary words, which does not include many basic high school vocabulary words.
+
+[TOEFL.txt](TOEFL.txt) is the same as above.
+
+[GRE_8000_Words.txt](GRE_8000_Words.txt) is the same as above.
 
 # Thanks
 
