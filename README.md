@@ -17,7 +17,7 @@
 
 ## Original lists
 
-[IELTS_4000.txt](IELTS_4000.txt) is a list of core IELTS vocabulary words, which does not include many basic vocabulary words that you might learnt from middle school.
+[IELTS_6000.txt](IELTS_6000.txt) is a list of core IELTS vocabulary words, which does not include many basic vocabulary words that you might learnt from middle school.
 
 [TOEFL.txt](TOEFL.txt) is the same as above.
 
