@@ -2,6 +2,8 @@
 word_list1 = set()
 word_list2 = set()
 
+
+
 # reading the first file that has less words.
 with open('CET4.txt', 'r') as f1:
   for line in f1:
